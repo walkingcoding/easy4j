@@ -10,7 +10,7 @@
 
 - 后端框架
     - springBoot 2.1.6
-    - ![mybatis-plus 3.3.1](http://mybatis.plus)
+    - [mybatis-plus 3.3.1](http://mybatis.plus)
 
 ### 模块说明
 
@@ -27,4 +27,4 @@
 - easy4j-plugins
     - easy4j-plugins-security 安全套件
     - easy4j-plugins-monitor 监控套件
-- easy4j-starter
+- easy4j-boot-starter

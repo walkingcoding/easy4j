@@ -15,3 +15,8 @@ spring:
       remove-abandoned: true
       remove-abandoned-timeout: 300
       filters: stat
+
+easy4j:
+  druid:
+    monitor:
+      enabled: true
